@@ -1,1 +1,3 @@
 Hello world vandy!!
+take input from use
+add the value
